@@ -1,3 +1,7 @@
+/*
+Binary to decimal conversion, initial version.
+*/
+
 import java.util.*;
 
 public class Conversion {
